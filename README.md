@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Dustin Barrick<br>-I'm currently working on learning Python<br>-I'm looking for a role in Cybersecurity
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shepbarrick&label=Profile%20views&color=0e75b6&style=flat" alt="shepbarrick" /> </p>
 
 
 ## 🌐 Socials:
